@@ -1,0 +1,54 @@
+body {
+  background-color: #181a20;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  font-size: 20px;
+}
+
+table {
+  width: 65%;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+th {
+  padding: 15px;
+  background-color: #181a20;
+  color: #9d9ea3;
+}
+
+/* Alineación de encabezados */
+
+th:first-child {
+  text-align: left;
+}
+
+th:not(:first-child) {
+  text-align: right;
+}
+
+td {
+  padding: 15px;
+  color: #ffffff;
+  background-color: #181a20;
+}
+
+/* Alineación de celdas */
+td:first-child {
+  text-align: left;
+}
+
+td:not(:first-child) {
+  text-align: right;
+}
+
+tr {
+  border-bottom: 1px solid #181818;
+}
+
+tr:hover {
+  background-color: #333333;
+}
