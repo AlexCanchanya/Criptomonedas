@@ -9,6 +9,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
+## Descripción
 
 Este proyecto es una aplicación web que proporciona información detallada sobre criptomonedas. La aplicación cuenta con un **backend** construido en **Java** utilizando **Spring Boot**, que consume la API de **CoinGecko** para obtener datos actualizados sobre diversas criptomonedas. Este backend ofrece un servicio RESTful que permite la recuperación eficiente de información.
 El **frontend** está desarrollado en **React**, lo que brinda una interfaz web intuitiva y fácil de usar para interactuar con los servicios del backend. Los usuarios pueden visualizar una tabla con datos relevantes, como el nombre de la criptomoneda, su precio actual y las variaciones en tiempo real.
