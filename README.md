@@ -13,7 +13,7 @@
 Este proyecto es una aplicación web que proporciona información detallada sobre criptomonedas. La aplicación cuenta con un **backend** construido en **Java** utilizando **Spring Boot**, que consume la API de **CoinGecko** para obtener datos actualizados sobre diversas criptomonedas. Este backend ofrece un servicio RESTful que permite la recuperación eficiente de información.
 El **frontend** está desarrollado en **React**, lo que brinda una interfaz web intuitiva y fácil de usar para interactuar con los servicios del backend. Los usuarios pueden visualizar una tabla con datos relevantes, como el nombre de la criptomoneda, su precio actual y las variaciones en tiempo real.
 
-![](https://github.com/AlexCanchanya/Criptomonedas/blob/main/imagen.png)
+![](https://github.com/AlexCanchanya/Criptomonedas/blob/main/image.png)
 
 ### Características:
 - Listado de criptomonedas con información esencial, como nombre, precio y variación.
